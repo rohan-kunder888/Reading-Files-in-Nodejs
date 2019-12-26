@@ -1,0 +1,1 @@
+this is text from file 3 from same directory..

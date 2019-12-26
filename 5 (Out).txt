@@ -1,0 +1,1 @@
+this is text from file 5 from same directory..
